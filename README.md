@@ -18,9 +18,12 @@ Before running the code, ensure that you have the following installed:
 - `requests` library
 - `matplotlib` library
 
+Output
+The output of the script is a pie chart showing the relative distribution of air pollutants. The chart includes a legend that displays the pollutants with their corresponding concentrations in µg/m³.
+
 ### Installing the required libraries:
 
 You can install the required libraries using `pip`:
 ```bash
 pip install requests matplotlib
-![image](https://github.com/user-attachments/assets/3904f130-c7b8-4d59-9f28-f89311dd9d0a)
+
