@@ -1,4 +1,4 @@
-# API-Integration-and-Data-Vizualization
+# API-Integration-and-Data-Visualization
 # Air Pollution Data Visualization
 
 This project fetches air pollution data from the OpenWeatherMap API and visualizes the distribution of air pollution components in India using a pie chart. The chart displays the various pollutants in the air, highlighting the ones with the highest concentration.
